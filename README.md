@@ -1,4 +1,4 @@
-# Spice Invaders
+# Space Invaders
 
 A simple implementation of a "Space Invaders"-type game written in C++. 
 
